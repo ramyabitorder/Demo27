@@ -1,0 +1,197 @@
+[
+    [
+        "/Users/FPSS/Documents/27/demoProject/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/27/demoProject/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1506494588000,
+            "changeTime": 1506494588000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/27/demoProject/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/27/demoProject/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1506494588000,
+            "changeTime": 1506494588000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/27/demoProject/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/27/demoProject/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 170,
+            "modifiedTime": 1506495121000,
+            "changeTime": 1506495121000,
+            "contentHash": "6899b872e57456c81d7a2b00b0b5d5cee2f995d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/27/demoProject/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/27/demoProject/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1506494588000,
+            "changeTime": 1506494588000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/27/demoProject/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/27/demoProject/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1506495071000,
+            "changeTime": 1506495122000,
+            "contentHash": "bd112183869aad93462157f7176f55b03e68f20c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/27/demoProject/force-app/main/default/classes/DemoController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/27/demoProject/force-app/main/default/classes/DemoController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 927,
+            "modifiedTime": 1506495071000,
+            "changeTime": 1506495121000,
+            "contentHash": "cd7b8089de83cb1fadc4f54f69e77ff8816424b1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/27/demoProject/force-app/main/default/classes/DemoController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/27/demoProject/force-app/main/default/classes/DemoController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1506495071000,
+            "changeTime": 1506495122000,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/27/demoProject/force-app/main/default/classes/DemoControllerTests.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/27/demoProject/force-app/main/default/classes/DemoControllerTests.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 651,
+            "modifiedTime": 1506495071000,
+            "changeTime": 1506495122000,
+            "contentHash": "bbe4cc9820e0c0f29076ca52d883403b4266338d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/27/demoProject/force-app/main/default/classes/DemoControllerTests.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/27/demoProject/force-app/main/default/classes/DemoControllerTests.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1506495071000,
+            "changeTime": 1506495122000,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/27/demoProject/force-app/main/default/pages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/27/demoProject/force-app/main/default/pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1506495071000,
+            "changeTime": 1506495122000,
+            "contentHash": "8321bf938eae81fc8c55f4bafb5c03e963cd1dbb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/27/demoProject/force-app/main/default/pages/DemoPage.page",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/27/demoProject/force-app/main/default/pages/DemoPage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1566,
+            "modifiedTime": 1506495071000,
+            "changeTime": 1506495122000,
+            "contentHash": "38ded2a859ab89f32f69fe038e054498393e2d0b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/27/demoProject/force-app/main/default/pages/DemoPage.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/27/demoProject/force-app/main/default/pages/DemoPage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 284,
+            "modifiedTime": 1506495071000,
+            "changeTime": 1506495122000,
+            "contentHash": "924a2d0a4f48c367044845bdb05e9be55067126a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/27/demoProject",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/27/demoProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1506495129000,
+            "changeTime": 1506495129000,
+            "contentHash": "9f80c4a0c54275d0c05dd8b461ae5ebcb3bd8805",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
